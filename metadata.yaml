@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '67'
     url: http://www.gutenberg.org/2009/agents/67
     wikipedia: https://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+covers:
+- cover_type: archival
+  image_path: 72859-h/images/cover.jpg
 creator:
   author:
     agent_name: Daniel, Hawthorne
     gutenberg_agent_id: '56838'
     url: http://www.gutenberg.org/2009/agents/56838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72859#Ships-of-the-seven-seas
 gutenberg_issued: '2024-02-02'
 gutenberg_type: Text
 identifiers:
